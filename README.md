@@ -9,4 +9,5 @@ To get started, clone this repository and ensure you have Node.js installed. Run
 ## References
 
 [GraphQL](https://graphql.org/)
+
 [Apollo Server](https://www.apollographql.com/docs/apollo-server/)
