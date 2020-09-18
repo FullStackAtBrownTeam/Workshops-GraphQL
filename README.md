@@ -1,6 +1,6 @@
 # Hack@Home Workshop - GraphQL
 
-This is the repository for the [Hack@Home](http://hackathome.org/) GraphQL workshop, led by Nick Young. The video companion to this repository will be posted [here]()
+This is the repository for the [Hack@Home](http://hackathome.org/) GraphQL workshop, led by Nick Young. The video companion to this repository will be posted [here](https://www.youtube.com/watch?v=VwhvzFdmfLY&feature=youtu.be&ab_channel=FSAB).
 
 ## Dev Setup
 
